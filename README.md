@@ -8,43 +8,41 @@ A **React Native** app that lets users check, create, and share custom cocktail 
 
 - 🔍 **Search for Cocktails**  
   Search for cocktails using a filter option.  
-  ![Search Cocktails](App%20Overview/Search%20Cocktails.jpg)
+  <img src="App Overview/Search Cocktails.jpg" alt="Search Cocktails" width="400"/>
 
 - 🎲 **Display Random Cocktails**  
   Show a randomly selected cocktail for inspiration.  
-  
-  
-- 🌟 **Seasonal Cocktails**  
+ 
+  - 🌟 **Seasonal Cocktails**  
   Display a cocktail that changes every 24 hours.  
-  ![Home Page](App%20Overview/Seasonal%20Page.jpg)
-
+  <img src="App Overview/Seasonal Cocktails.jpg" alt="Seasonal Cocktails" width="400"/>
 
 - 🌟 **Cocktail of the Day**  
   Display a cocktail that changes every 24 hours.  
-  ![Home Page](App%20Overview/Home%20Page.jpg)
+  <img src="App Overview/Home Page.jpg" alt="Home Page" width="400"/>
 
 - 📜 **Detailed Descriptions**  
   Each cocktail includes:  
   - An image  
   - A recipe  
   - Instructions for preparation  
-  ![Cocktail Details 2](App%20Overview/Cocktail%20Details2.jpg)  
-  ![Cocktail Details 1](App%20Overview/Cocktail%20Details1.jpg)
+  <img src="App Overview/Cocktail Details1.jpg" alt="Cocktail Details 1" width="400"/>  
+  <img src="App Overview/Cocktail Details2.jpg" alt="Cocktail Details 2" width="400"/>
 
 - ❤️ **Add to Favorites**  
   Save cocktails you love for quick access.  
-  ![Favorites](App%20Overview/Favorites.jpg)
+  <img src="App Overview/Favorites.jpg" alt="Favorites" width="400"/>
 
 - ⭐ **Rating Feature**  
   Rate cocktails on a scale of 1 to 5.
 
 - 🧾 **Ingredients Page**  
   View all ingredients used in cocktails, complete with detailed descriptions.  
-  ![Check Ingredients](App%20Overview/Check%20Ingredients.jpg)
+  <img src="App Overview/Check Ingredients.jpg" alt="Check Ingredients" width="400"/>
 
 - ✏️ **Submit Your Recipe**  
   Share your custom cocktail creations.  
-  ![Submit Your Recipe](App%20Overview/Submit%20Your%20Recipe.jpg)
+  <img src="App Overview/Submit Your Recipe.jpg" alt="Submit Your Recipe" width="400"/>
 
 ---
 
@@ -52,18 +50,18 @@ A **React Native** app that lets users check, create, and share custom cocktail 
 
 ### **Authentication**
 - **Login Page**  
-  ![Login Page](App%20Overview/Login%20Page.jpg)
+  <img src="App Overview/Login Page.jpg" alt="Login Page" width="400"/>
 
 - **Sign Up Page**  
-  ![Sign Up Page](App%20Overview/Sign%20Up%20Page.jpg)
+  <img src="App Overview/Sign Up Page.jpg" alt="Sign Up Page" width="400"/>
 
 ### **Navigation**
 - **Drawer Menu**  
-  ![Drawer Menu](App%20Overview/Drawer.jpg)
+  <img src="App Overview/Drawer.jpg" alt="Drawer Menu" width="400"/>
 
 ### **Filter Option**
 - **Filter Cocktails**  
-  ![Filter Option](App%20Overview/filter%20option.jpg)
+  <img src="App Overview/filter option.jpg" alt="Filter Option" width="400"/>
 
 ---
 
@@ -80,4 +78,4 @@ A **React Native** app that lets users check, create, and share custom cocktail 
 ### **How It Works**
 - Ensure all images are in the `App Overview` folder in your repository.
 - Push this `README.md` file and the folder to GitHub.
-- The images will display directly in the README, and clicking on them will open the full-size images.
+- The images will display directly in the README at a smaller size, and clicking on them will open the full-size images.
