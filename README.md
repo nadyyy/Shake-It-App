@@ -14,6 +14,21 @@ A React Native app that lets users check, create and share custom cocktail recip
 ✏️ Submit Your Recipe: Share your custom cocktail creations.
 🍹 Community Cocktails: Browse cocktails submitted by other users.
 
+##App Screenshot
+
+Check Ingredients.jpg
+Cocktail Details1.jpg
+Cocktail Details2.jpg
+Drawer.jpg
+Favorites.jpg
+Home Page.jpg
+Login Page.jpg
+Search Cocktails.jpg
+Seasonal Cocktails.jpg
+Sign Up Page.jpg
+Submit Your Recipe.jpg
+filter option.jpg
+
 ## Technologies
 - React Native
 - JavaScript
