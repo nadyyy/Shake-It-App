@@ -12,7 +12,12 @@ A **React Native** app that lets users check, create, and share custom cocktail 
 
 - 🎲 **Display Random Cocktails**  
   Show a randomly selected cocktail for inspiration.  
-  ![Seasonal Cocktails](App%20Overview/Seasonal%20Cocktails.jpg)
+  
+  
+- 🌟 **Seasonal Cocktails**  
+  Display a cocktail that changes every 24 hours.  
+  ![Home Page](App%20Overview/Seasonal%20Page.jpg)
+
 
 - 🌟 **Cocktail of the Day**  
   Display a cocktail that changes every 24 hours.  
@@ -23,8 +28,8 @@ A **React Native** app that lets users check, create, and share custom cocktail 
   - An image  
   - A recipe  
   - Instructions for preparation  
-  ![Cocktail Details 1](App%20Overview/Cocktail%20Details1.jpg)  
-  ![Cocktail Details 2](App%20Overview/Cocktail%20Details2.jpg)
+  ![Cocktail Details 2](App%20Overview/Cocktail%20Details2.jpg)  
+  ![Cocktail Details 1](App%20Overview/Cocktail%20Details1.jpg)
 
 - ❤️ **Add to Favorites**  
   Save cocktails you love for quick access.  
